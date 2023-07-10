@@ -1,0 +1,26 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+
+#card{
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000000;
+    background-color: rgba(84, 180, 211, 0.7);
+}
+#card-content{
+    border-radius: 15px;
+    margin: 25px;
+    background-color: white;
+}
+#product-cart{
+    margin-bottom: 25px;
+    height: 60vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 10px;
+    border-color:rgba(84, 180, 211, 0.7);
+}

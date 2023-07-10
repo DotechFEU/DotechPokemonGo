@@ -1,0 +1,9 @@
+#card{
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000000;
+    background-color: rgba(84, 180, 211, 0.7);
+    padding: 25px;
+}
+#form-container{
+    padding: 25px;
+}

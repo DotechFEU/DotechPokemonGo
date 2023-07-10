@@ -1,0 +1,16 @@
+#container{
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000000;
+    margin: 25px auto;
+    background-color: rgba(84, 180, 211, 0.7);
+    min-width: 80%;
+}
+.card{
+    margin: 25px 0px 25px 0px;
+}
+.card-header{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

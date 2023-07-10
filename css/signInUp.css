@@ -1,0 +1,17 @@
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 25px 0px 25px 0px;
+}
+.card{
+    width: 500px;
+    padding: 25px;
+}
+#card-holder{
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000000;
+    padding: 25px;
+    background-color: rgba(84, 180, 211, 0.7);
+}
